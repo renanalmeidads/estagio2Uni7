@@ -33,9 +33,11 @@
 
 ### **Questão 3. **Pencil
 
-- Escolha uma das funcionalidades que você vai implementar e elabore o protótipo de tela.
+- Escolha uma das funcionalidades que você vai implementar e elabore o protótipo de tela
 
+![alt text](https://github.com/renanalmeidads/estagio2Uni7/blob/master/2019/01/projetos/myCashFlow/Funcionalidades/Renda%20e%20Recursos/renda_recursos_1.jpeg)
 
+![alt text](https://github.com/renanalmeidads/estagio2Uni7/blob/master/2019/01/projetos/myCashFlow/Funcionalidades/Renda%20e%20Recursos/renda_recursos_2.jpeg)
 
 ### **Questão 4. **Planejamento
 
